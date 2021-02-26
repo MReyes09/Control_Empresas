@@ -1,0 +1,7 @@
+
+Debido a que termine mi proyecto antes de aprender sobre los tokens
+y las relaciones estre documentos, he dejado el proyecto tal y como lo
+veniamos trabajando las primeras semas.
+
+***No posee tokens ni relaciones entre documentos***
+*** 	 Uso de documentos embebidos	 ***
